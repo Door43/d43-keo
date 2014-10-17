@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[keo:home|Door43 (keo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-keo|d43-keo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-keo/archive/master.zip|d43-keo.zip]]
+
+**Recent Changes**
+{{changes>ns = keo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/keo|Ethnologue data]]
+
